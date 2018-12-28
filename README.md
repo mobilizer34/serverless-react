@@ -1,2 +1,2 @@
 # serverless-react
-Serverless app with React
+AWS Serverless application using React
